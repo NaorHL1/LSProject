@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var API = \"https://red-elephant-59.loca.lt\";","map":{"version":3,"sources":["C:/Users/Naor/Visual Code Files/WorkersManager/config.js"],"names":["API"],"mappings":"AAAA,OAAO,IAAMA,GAAG,GAAC,iCAAV","sourcesContent":["export const API=\"https://red-elephant-59.loca.lt\";"]},"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var API = \"https://foolish-wolverine-28.loca.lt/\";","map":{"version":3,"sources":["C:/Users/Naor/Visual Code Files/WorkersManager/config.js"],"names":["API"],"mappings":"AAAA,OAAO,IAAMA,GAAG,GAAC,uCAAV","sourcesContent":["export const API=\"https://foolish-wolverine-28.loca.lt/\";"]},"metadata":{},"sourceType":"module"}

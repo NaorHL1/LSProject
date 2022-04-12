@@ -1,0 +1,48 @@
+get http://localhost:3000/employees 
+
+###
+
+get http://localhost:3000/users
+
+###
+
+POST http://localhost:3000/signup
+Content-Type: application/json
+
+{
+    "fname":"check",
+    "lname":"hash",
+    "email":"hash@gmail.com",
+    "password":"123456"
+}
+###
+
+POST http://localhost:3000/signin
+Content-Type: application/json
+
+{
+    "email":"hash@gmail.com",
+    "password":"123456"
+}
+
+###
+
+POST http://localhost:3000/addemployee
+Content-Type: application/json
+
+{
+    "fname":"Naor",
+    "lname":"Levi",
+    "phone":"0500000000",
+    "address":"rishon,goliath 52",
+    "roll":"HR"
+}
+
+###
+
+POST http://localhost:3000/deleteemployee
+Content-Type: application/json
+
+{
+    "id":"6248642df4087a7dadbee6d0"
+}
