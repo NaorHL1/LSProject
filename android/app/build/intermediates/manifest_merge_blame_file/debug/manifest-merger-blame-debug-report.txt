@@ -1,6 +1,6 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="com.project.manage"
+3    package="com.Android.Manager"
 4    android:versionCode="1"
 5    android:versionName="1.0.0" >
 6
@@ -42,31 +42,31 @@
 24        </intent>
 25        <!-- Query open documents -->
 26        <intent>
-26-->[:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:9-21:18
+26-->[:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:9-19:18
 27            <action android:name="android.intent.action.OPEN_DOCUMENT_TREE" />
-27-->[:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:13-79
-27-->[:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:21-76
+27-->[:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-79
+27-->[:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:21-76
 28        </intent>
 29    </queries>
 30
 31    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-31-->[com.facebook.flipper:flipper:0.54.0] C:\Users\Naor\.gradle\caches\transforms-3\62ece1a98ef095db320a1cbbfb42e6fd\transformed\jetified-flipper-0.54.0\AndroidManifest.xml:16:5-76
-31-->[com.facebook.flipper:flipper:0.54.0] C:\Users\Naor\.gradle\caches\transforms-3\62ece1a98ef095db320a1cbbfb42e6fd\transformed\jetified-flipper-0.54.0\AndroidManifest.xml:16:22-73
+31-->[com.facebook.flipper:flipper:0.54.0] C:\Users\Naor\.gradle\caches\transforms-3\74d65fe7582a8d2dcc92f05e58963ab3\transformed\jetified-flipper-0.54.0\AndroidManifest.xml:16:5-76
+31-->[com.facebook.flipper:flipper:0.54.0] C:\Users\Naor\.gradle\caches\transforms-3\74d65fe7582a8d2dcc92f05e58963ab3\transformed\jetified-flipper-0.54.0\AndroidManifest.xml:16:22-73
 32    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-32-->[:expo-updates] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-updates\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-79
-32-->[:expo-updates] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-updates\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:22-76
+32-->[:expo-updates] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-updates\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-79
+32-->[:expo-updates] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-updates\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-76
 33    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
-33-->[com.android.installreferrer:installreferrer:1.0] C:\Users\Naor\.gradle\caches\transforms-3\1968984fad2cb8d7545ec157d69b81f7\transformed\jetified-installreferrer-1.0\AndroidManifest.xml:9:5-110
-33-->[com.android.installreferrer:installreferrer:1.0] C:\Users\Naor\.gradle\caches\transforms-3\1968984fad2cb8d7545ec157d69b81f7\transformed\jetified-installreferrer-1.0\AndroidManifest.xml:9:22-107
+33-->[com.android.installreferrer:installreferrer:1.0] C:\Users\Naor\.gradle\caches\transforms-3\a0fb883dfa45017713d59c8b76e37073\transformed\jetified-installreferrer-1.0\AndroidManifest.xml:9:5-110
+33-->[com.android.installreferrer:installreferrer:1.0] C:\Users\Naor\.gradle\caches\transforms-3\a0fb883dfa45017713d59c8b76e37073\transformed\jetified-installreferrer-1.0\AndroidManifest.xml:9:22-107
 34
 35    <application
 35-->C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\main\AndroidManifest.xml:14:3-33:17
-36        android:name="com.project.manage.MainApplication"
+36        android:name="com.Android.Manager.MainApplication"
 36-->C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\main\AndroidManifest.xml:14:16-47
 37        android:allowBackup="true"
 37-->C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\main\AndroidManifest.xml:14:162-188
 38        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-38-->[androidx.core:core:1.6.0] C:\Users\Naor\.gradle\caches\transforms-3\63630bff35c5941492530625c68eb7d4\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+38-->[androidx.core:core:1.6.0] C:\Users\Naor\.gradle\caches\transforms-3\be05a3af4d6e703ce0698cd3d1530543\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
 39        android:debuggable="true"
 40        android:icon="@mipmap/ic_launcher"
 40-->C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\main\AndroidManifest.xml:14:81-115
@@ -111,7 +111,7 @@
 60
 61        <activity
 61-->C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\main\AndroidManifest.xml:20:5-31:16
-62            android:name="com.project.manage.MainActivity"
+62            android:name="com.Android.Manager.MainActivity"
 62-->C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\main\AndroidManifest.xml:20:15-43
 63            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
 63-->C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\main\AndroidManifest.xml:20:77-154
@@ -148,7 +148,7 @@
 78-->C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\main\AndroidManifest.xml:10:7-67
 78-->C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\main\AndroidManifest.xml:10:17-65
 79
-80                <data android:scheme="com.project.manage" />
+80                <data android:scheme="com.Android.Manager" />
 80-->C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\main\AndroidManifest.xml:11:7-37
 80-->C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\main\AndroidManifest.xml:11:13-35
 81            </intent-filter>
@@ -158,38 +158,38 @@
 83-->C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\main\AndroidManifest.xml:32:15-79
 84
 85        <provider
-85-->[:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:9-34:20
+85-->[:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:9-32:20
 86            android:name="expo.modules.filesystem.FileSystemFileProvider"
-86-->[:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:26:13-74
-87            android:authorities="com.project.manage.FileSystemFileProvider"
-87-->[:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:13-74
+86-->[:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:13-74
+87            android:authorities="com.Android.Manager.FileSystemFileProvider"
+87-->[:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:13-74
 88            android:exported="false"
-88-->[:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:28:13-37
+88-->[:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:13-37
 89            android:grantUriPermissions="true" >
-89-->[:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:29:13-47
+89-->[:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:13-47
 90            <meta-data
-90-->[:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:31:13-33:70
+90-->[:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:29:13-31:70
 91                android:name="android.support.FILE_PROVIDER_PATHS"
-91-->[:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:32:17-67
+91-->[:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:30:17-67
 92                android:resource="@xml/file_system_provider_paths" />
-92-->[:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:33:17-67
+92-->[:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:31:17-67
 93        </provider>
 94
 95        <meta-data
-95-->[:expo-modules-core] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-modules-core\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-14:89
+95-->[:expo-modules-core] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-modules-core\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-12:89
 96            android:name="org.unimodules.core.AppLoader#react-native-headless"
-96-->[:expo-modules-core] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-modules-core\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-79
+96-->[:expo-modules-core] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-modules-core\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-79
 97            android:value="expo.modules.adapters.react.apploader.RNHeadlessAppLoader" />
-97-->[:expo-modules-core] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-modules-core\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-86
+97-->[:expo-modules-core] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-modules-core\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-86
 98
 99        <service
-99-->[androidx.room:room-runtime:2.3.0] C:\Users\Naor\.gradle\caches\transforms-3\d7daa8ea44108159e5b04ed2f01f0311\transformed\room-runtime-2.3.0\AndroidManifest.xml:25:9-28:40
+99-->[androidx.room:room-runtime:2.3.0] C:\Users\Naor\.gradle\caches\transforms-3\fb5e28a80e091ecd4a08e1e158fc7a32\transformed\room-runtime-2.3.0\AndroidManifest.xml:25:9-28:40
 100            android:name="androidx.room.MultiInstanceInvalidationService"
-100-->[androidx.room:room-runtime:2.3.0] C:\Users\Naor\.gradle\caches\transforms-3\d7daa8ea44108159e5b04ed2f01f0311\transformed\room-runtime-2.3.0\AndroidManifest.xml:26:13-74
+100-->[androidx.room:room-runtime:2.3.0] C:\Users\Naor\.gradle\caches\transforms-3\fb5e28a80e091ecd4a08e1e158fc7a32\transformed\room-runtime-2.3.0\AndroidManifest.xml:26:13-74
 101            android:directBootAware="true"
-101-->[androidx.room:room-runtime:2.3.0] C:\Users\Naor\.gradle\caches\transforms-3\d7daa8ea44108159e5b04ed2f01f0311\transformed\room-runtime-2.3.0\AndroidManifest.xml:27:13-43
+101-->[androidx.room:room-runtime:2.3.0] C:\Users\Naor\.gradle\caches\transforms-3\fb5e28a80e091ecd4a08e1e158fc7a32\transformed\room-runtime-2.3.0\AndroidManifest.xml:27:13-43
 102            android:exported="false" />
-102-->[androidx.room:room-runtime:2.3.0] C:\Users\Naor\.gradle\caches\transforms-3\d7daa8ea44108159e5b04ed2f01f0311\transformed\room-runtime-2.3.0\AndroidManifest.xml:28:13-37
+102-->[androidx.room:room-runtime:2.3.0] C:\Users\Naor\.gradle\caches\transforms-3\fb5e28a80e091ecd4a08e1e158fc7a32\transformed\room-runtime-2.3.0\AndroidManifest.xml:28:13-37
 103    </application>
 104
 105</manifest>

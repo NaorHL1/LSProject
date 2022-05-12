@@ -9,7 +9,7 @@ import CustomButton from '../components/CustomButton';
 import react from 'react';
 import { useNavigation ,useRoute} from '@react-navigation/native';
 import { Trans,useTranslation, initReactI18next } from "react-i18next";
-import { API } from '../Server/config';
+import { API } from '../config';
 import axios from 'axios';
 import i18n from '../Context/changelang';
 

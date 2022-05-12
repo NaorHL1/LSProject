@@ -4,8 +4,8 @@
     "type": "PROCESSED_RES",
     "kind": "Directory"
   },
-  "applicationId": "com.project.manage",
-  "variantName": "processDebugResources",
+  "applicationId": "com.Android.Manager",
+  "variantName": "debug",
   "elements": [
     {
       "type": "SINGLE",

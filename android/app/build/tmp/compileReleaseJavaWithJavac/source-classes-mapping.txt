@@ -1,9 +1,9 @@
-com/project/manage/BuildConfig.java
- com.project.manage.BuildConfig
 com/Android/native/MainApplication.java
- com.project.manage.MainApplication
- com.project.manage.MainApplication$1
+ com.Android.Manager.MainApplication
+ com.Android.Manager.MainApplication$1
 com/Android/native/MainActivity.java
- com.project.manage.MainActivity
+ com.Android.Manager.MainActivity
 com/facebook/react/PackageList.java
  com.facebook.react.PackageList
+com/Android/Manager/BuildConfig.java
+ com.Android.Manager.BuildConfig

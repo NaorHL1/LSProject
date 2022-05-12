@@ -6,7 +6,7 @@ import CustomButton from '../components/CustomButton';
 import CustomInput from '../components/CustomInput';
 import react from 'react';
 import axios from 'axios';
-import { API } from '../Server/config';
+import { API } from '../config';
 import { Trans,useTranslation, initReactI18next } from "react-i18next";
 import i18n from '../Context/changelang';
 import {CloseOutlined,EditOutlined,DeleteFilled,PhoneOutlined} from '@ant-design/icons';

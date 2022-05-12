@@ -1,14 +1,14 @@
 com/Android/native/ReactNativeFlipper.java
- com.project.manage.ReactNativeFlipper
- com.project.manage.ReactNativeFlipper$1
- com.project.manage.ReactNativeFlipper$2
- com.project.manage.ReactNativeFlipper$2$1
-com/Android/manage/BuildConfig.java
- com.project.manage.BuildConfig
+ com.Android.Manager.ReactNativeFlipper
+ com.Android.Manager.ReactNativeFlipper$1
+ com.Android.Manager.ReactNativeFlipper$2
+ com.Android.Manager.ReactNativeFlipper$2$1
 com/Android/native/MainApplication.java
- com.project.manage.MainApplication
- com.project.manage.MainApplication$1
+ com.Android.Manager.MainApplication
+ com.Android.Manager.MainApplication$1
 com/Android/native/MainActivity.java
- com.project.manage.MainActivity
+ com.Android.Manager.MainActivity
 com/facebook/react/PackageList.java
  com.facebook.react.PackageList
+com/Android/Manager/BuildConfig.java
+ com.Android.Manager.BuildConfig

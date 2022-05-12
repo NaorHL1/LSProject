@@ -4,8 +4,8 @@
     "type": "PROCESSED_RES",
     "kind": "Directory"
   },
-  "applicationId": "com.project.manage",
-  "variantName": "processReleaseResources",
+  "applicationId": "com.Android.Manager",
+  "variantName": "release",
   "elements": [
     {
       "type": "SINGLE",

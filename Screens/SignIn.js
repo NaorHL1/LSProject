@@ -12,7 +12,7 @@ import i18n from '../Context/changelang';
 import { useRoute } from '@react-navigation/native';
 import { changeLanguage } from 'i18next';
 import axios from 'axios';
-import { API } from '../Server/config';
+import {API} from '../config';
 import { I18nManager } from 'react-native';
 
 const WIDTH=Dimensions.get('window').width;
