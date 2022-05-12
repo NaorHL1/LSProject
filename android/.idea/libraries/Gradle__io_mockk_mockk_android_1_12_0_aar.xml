@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: io.mockk:mockk-android:1.12.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/836dba6c806cff4940df1a70b938bfba/transformed/jetified-mockk-android-1.12.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d74e82f838291d71ae0369d0235ea7be/transformed/jetified-mockk-android-1.12.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/a8c97ea328b4c111ec6d361500e11913/transformed/jetified-mockk-android-1.12.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a8c97ea328b4c111ec6d361500e11913/transformed/jetified-mockk-android-1.12.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a8c97ea328b4c111ec6d361500e11913/transformed/jetified-mockk-android-1.12.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.mockk/mockk-android/1.12.0/1fce1cf21b449d9ef4a83fd3f84f26d1e03f0e5d/mockk-android-1.12.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.mockk/mockk-android/1.12.0/53fc82da8bf11b2ca3c93f717763c49b31786dbe/mockk-android-1.12.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

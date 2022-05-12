@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WorkersManager.iml" filepath="$PROJECT_DIR$/.idea/modules/WorkersManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WorkersManager.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WorkersManager.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-122174907/WorkersManager.expo.iml" filepath="$PROJECT_DIR$/.idea/modules/-122174907/WorkersManager.expo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1200355016/WorkersManager.expo-application.iml" filepath="$PROJECT_DIR$/.idea/modules/1200355016/WorkersManager.expo-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-164054585/WorkersManager.expo-constants.iml" filepath="$PROJECT_DIR$/.idea/modules/-164054585/WorkersManager.expo-constants.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/670410008/WorkersManager.expo-file-system.iml" filepath="$PROJECT_DIR$/.idea/modules/670410008/WorkersManager.expo-file-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1821908375/WorkersManager.expo-font.iml" filepath="$PROJECT_DIR$/.idea/modules/1821908375/WorkersManager.expo-font.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/614988244/WorkersManager.expo-json-utils.iml" filepath="$PROJECT_DIR$/.idea/modules/614988244/WorkersManager.expo-json-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/564082309/WorkersManager.expo-keep-awake.iml" filepath="$PROJECT_DIR$/.idea/modules/564082309/WorkersManager.expo-keep-awake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-263513188/WorkersManager.expo-manifests.iml" filepath="$PROJECT_DIR$/.idea/modules/-263513188/WorkersManager.expo-manifests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1790622061/WorkersManager.expo-modules-core.iml" filepath="$PROJECT_DIR$/.idea/modules/1790622061/WorkersManager.expo-modules-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1454520330/WorkersManager.expo-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/1454520330/WorkersManager.expo-splash-screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1321114798/WorkersManager.expo-structured-headers.iml" filepath="$PROJECT_DIR$/.idea/modules/-1321114798/WorkersManager.expo-structured-headers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1300988994/WorkersManager.expo-updates.iml" filepath="$PROJECT_DIR$/.idea/modules/1300988994/WorkersManager.expo-updates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1488401774/WorkersManager.expo-updates-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/1488401774/WorkersManager.expo-updates-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1404203919/WorkersManager.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1404203919/WorkersManager.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-622508418/WorkersManager.react-native-localize.iml" filepath="$PROJECT_DIR$/.idea/modules/-622508418/WorkersManager.react-native-localize.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1976438202/WorkersManager.react-native-restart.iml" filepath="$PROJECT_DIR$/.idea/modules/1976438202/WorkersManager.react-native-restart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-168866662/WorkersManager.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-168866662/WorkersManager.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1742027470/WorkersManager.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-1742027470/WorkersManager.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/637363855/WorkersManager.react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/637363855/WorkersManager.react-native-svg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1298380539/WorkersManager.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-1298380539/WorkersManager.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-365279062/WorkersManager.unimodules-core.iml" filepath="$PROJECT_DIR$/.idea/modules/-365279062/WorkersManager.unimodules-core.iml" />
+    </modules>
+  </component>
+</project>

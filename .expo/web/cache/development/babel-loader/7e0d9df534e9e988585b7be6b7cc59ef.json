@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var API = \"https://bitter-cat-50.loca.lts\";","map":{"version":3,"sources":["C:/Users/Naor/Visual Code Files/WorkersManager/config.js"],"names":["API"],"mappings":"AAAA,OAAO,IAAMA,GAAG,GAAC,gCAAV","sourcesContent":["export const API=\"https://bitter-cat-50.loca.lts\";"]},"metadata":{},"sourceType":"module"}

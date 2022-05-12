@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var API = \"http://localhost:3000\";","map":{"version":3,"sources":["C:/Users/Naor/Visual Code Files/WorkersManager/config.js"],"names":["API"],"mappings":"AAAA,OAAO,IAAMA,GAAG,GAAC,uBAAV","sourcesContent":["export const API=\"http://localhost:3000\";"]},"metadata":{},"sourceType":"module"}
