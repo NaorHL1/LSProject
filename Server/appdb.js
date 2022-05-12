@@ -12,7 +12,7 @@ app.use(cors());
 app.use(bodyparser.json())
 const User = mongoose.model("users")
 const Employee = mongoose.model("employees")
-const mongoKey = process.env.MONGODB_URI;
+const mongoKey = process.env.MONGODB_URI || "mongodb+srv://Naorhl:213221393@cluster0.how8n.mongodb.net/manage?retryWrites=true&w=majority";
 
 mongoose.connect(mongoKey,{
     useNewUrlParser:true,
