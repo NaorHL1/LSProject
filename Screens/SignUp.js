@@ -11,7 +11,7 @@ import i18n from '../Context/changelang';
 import { I18nManager } from 'react-native';
 import { Trans,useTranslation, initReactI18next } from "react-i18next";
 import axios from 'axios';
-import {API} from '../config';
+import { API } from '../Server/config';
 
 const isValidEmail=(value)=>{
   const regx =/^\w+@[a-zA-Z_]+?\.[a-zA-Z]{2,3}$/;

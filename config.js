@@ -1,1 +1,0 @@
-export const API="https://white-lion-98.loca.lt";

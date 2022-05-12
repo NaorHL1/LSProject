@@ -1,4 +1,4 @@
-package com.Android.native;
+package com.project.manage;
 
 import android.os.Build;
 import android.os.Bundle;

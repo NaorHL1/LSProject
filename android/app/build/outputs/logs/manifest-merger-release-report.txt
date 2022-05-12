@@ -4,90 +4,91 @@ ADDED from C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\main\A
 INJECTED from C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\main\AndroidManifest.xml:1:1-34:12
 INJECTED from C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\main\AndroidManifest.xml:1:1-34:12
 INJECTED from C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\main\AndroidManifest.xml:1:1-34:12
-MERGED from [:expo] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-gesture-handler] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-localize] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\react-native-localize\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-restart] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\react-native-restart\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-safe-area-context] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-screens] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\react-native-screens\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-svg] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\react-native-svg\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-vector-icons] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
-MERGED from [:expo-application] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-application\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
-MERGED from [:expo-constants] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-constants\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
-MERGED from [:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-35:12
-MERGED from [:expo-font] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-font\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
-MERGED from [:expo-keep-awake] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-keep-awake\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
-MERGED from [:expo-splash-screen] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-splash-screen\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
-MERGED from [:expo-updates] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-updates\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-11:12
-MERGED from [:expo-modules-core] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-modules-core\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-15:12
-MERGED from [com.facebook.react:react-native:0.64.3] C:\Users\Naor\.gradle\caches\transforms-3\47f6539b0cb1792a4fbe9990239862bd\transformed\jetified-react-native-0.64.3\AndroidManifest.xml:2:1-13:12
-MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\14f04b8204fd9847289444840023404e\transformed\jetified-fresco-2.0.0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\2100b8d7c56c72861a286af1f2f4316b\transformed\jetified-imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:animated-gif:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\e93e301e9100c9a822d4b114869bdd27\transformed\jetified-animated-gif-2.0.0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:webpsupport:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\fd506c0a4c305993dc047d4e992fea14\transformed\jetified-webpsupport-2.0.0\AndroidManifest.xml:2:1-9:12
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\6e10fba47c1e82f582f1390983adf319\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\815e03dc4a322c652e2fea223f044009\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\2b9e59b9c2d8c066171138a11c1dd1ee\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [org.webkit:android-jsc:r245459] C:\Users\Naor\.gradle\caches\transforms-3\0d443feea6fc6d88843377ddcd6b5e39\transformed\jetified-android-jsc-r245459\AndroidManifest.xml:2:1-11:12
-MERGED from [:expo-structured-headers] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-structured-headers\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.material:material:1.1.0] C:\Users\Naor\.gradle\caches\transforms-3\f20400206c15e061c16778c2274af8b0\transformed\material-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Naor\.gradle\caches\transforms-3\7b0a137a2a8dd5438a22cb2ff3afa8bb\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [com.facebook.fresco:animated-base:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\c6135255265db7a142a0841f41d6d65f\transformed\jetified-animated-base-2.0.0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:animated-drawable:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\2df764c29e4e8ee9ebe2fbdd708697fb\transformed\jetified-animated-drawable-2.0.0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\dd6e852553f09ecdefcd93c722b28d96\transformed\jetified-drawee-2.0.0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\40983765e0bf8adf57768753fcc093d4\transformed\jetified-nativeimagefilters-2.0.0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\d6408e01a0e0624f3c3917b6c0b2131e\transformed\jetified-imagepipeline-2.0.0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\b1ddf2a413b18d2d7dc633e8948d3fa3\transformed\jetified-nativeimagetranscoder-2.0.0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\a5c7004bda87958ab1014c932ced6924\transformed\jetified-imagepipeline-base-2.0.0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\Naor\.gradle\caches\transforms-3\1dae2b0bee6212425ece32082d0a2fa8\transformed\jetified-soloader-0.9.0\AndroidManifest.xml:2:1-13:12
-MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\a74230acd91cada3da5c14491e54536e\transformed\jetified-fbcore-2.0.0\AndroidManifest.xml:2:1-9:12
-MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Naor\.gradle\caches\transforms-3\c9a91ca966196b8931cee7f62e249e3d\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Naor\.gradle\caches\transforms-3\cf72242cc6f4773d722b4c13182bdcce\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\ee5753c281f445ac1052255b134d0eaa\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\Naor\.gradle\caches\transforms-3\c98cbf103fe1b536a74743b287051000\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:2:1-9:12
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\df97b86ab66613b7bba8408c0037eb08\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\Naor\.gradle\caches\transforms-3\2fa5f489377865d151b2d9ce0d50bad0\transformed\fragment-1.2.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Naor\.gradle\caches\transforms-3\3f0e4cbbe7c6a2e37736436db563346f\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\58b73bd7f7f634e2e3d2d09c92ebd6d8\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\6bb25ca2ae33cfdd15a4aa5a69d1baa3\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\6801b8e4b0f36e370528679d3fc501d2\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\1980b634020f4617022eac1c465cf1c6\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\c6bf8524dd1694266bf85b5de64bec83\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity:1.1.0] C:\Users\Naor\.gradle\caches\transforms-3\bb97576c2e8463d80314a2428dd7efb1\transformed\jetified-activity-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Naor\.gradle\caches\transforms-3\18873152a64da23c111587e76d0f2723\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\391c42ab2febe2fc279052f340a74f66\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\2a03e1d85ee5e488e344aa09a324f949\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.transition:transition:1.2.0] C:\Users\Naor\.gradle\caches\transforms-3\a24151ca7dab27270d1bb5f9061648c2\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Naor\.gradle\caches\transforms-3\9fc645d3de98037170b7dbea89a88e0c\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.media:media:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\9b99c1cf53ee433e9e79a40e0c2cd320\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\c9f86e79a74701b38ecef97825726332\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.6.0] C:\Users\Naor\.gradle\caches\transforms-3\be05a3af4d6e703ce0698cd3d1530543\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Naor\.gradle\caches\transforms-3\9a966807be30901fdcb072ba1f57782f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Naor\.gradle\caches\transforms-3\d51208ab5d5bd0627dc3b62522193eaf\transformed\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Naor\.gradle\caches\transforms-3\046bb41533299591bbfd3d03067e145d\transformed\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\136fd22d4f0f5074fa11ffc0a0d821cd\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\Naor\.gradle\caches\transforms-3\fb5e28a80e091ecd4a08e1e158fc7a32\transformed\room-runtime-2.3.0\AndroidManifest.xml:17:1-31:12
-MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Naor\.gradle\caches\transforms-3\25e7046ed203571227af65cf2e5a08cc\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Naor\.gradle\caches\transforms-3\2382fcc6eb35f134f16352afc85d1a9e\transformed\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Naor\.gradle\caches\transforms-3\fca29c53b9538cc5d570000ca013c1ad\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\9d6bd9c42aa9bdcb71be80e6d8ad2531\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\68b3bcc208e4f04d1ce57b2a38c32d35\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Naor\.gradle\caches\transforms-3\b22de541f20a9d1b829c1c28aea07e7e\transformed\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Naor\.gradle\caches\transforms-3\a313a8f1a6d63a886d792ae0c33ca3da\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\1d05f978adabceedabaf7f8d5cc67820\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\ba8fb70a59c1ff4473e0c98b4fa0c34c\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\b5e06493e7e0180619e18d605304f2ed\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [:unimodules-core] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\@unimodules\core\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
-MERGED from [:expo-manifests] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-manifests\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
-MERGED from [:expo-json-utils] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-json-utils\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
-MERGED from [:expo-updates-interface] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-updates-interface\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
-MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Naor\.gradle\caches\transforms-3\a0fb883dfa45017713d59c8b76e37073\transformed\jetified-installreferrer-1.0\AndroidManifest.xml:2:1-13:12
-MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Naor\.gradle\caches\transforms-3\4aa91400b9927785576f22e82ff7363c\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [:expo] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-localize] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\react-native-localize\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-restart] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\react-native-restart\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-safe-area-context] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\react-native-screens\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-svg] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\react-native-svg\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-application] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-application\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-constants] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-constants\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-37:12
+MERGED from [:expo-font] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-font\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-keep-awake] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-keep-awake\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-splash-screen] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-splash-screen\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-updates] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-updates\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-13:12
+MERGED from [:expo-modules-core] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-modules-core\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-17:12
+MERGED from [com.facebook.react:react-native:0.64.3] C:\Users\Naor\.gradle\caches\transforms-3\c83d8cd8e93de341b85eaf10eaef508a\transformed\jetified-react-native-0.64.3\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\b8b01a7e9adc1f8c096c5e3d1718af6a\transformed\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\720189f86df5d3b53892f711a4093dce\transformed\jetified-fresco-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\a0d4b24636013f5d34f3d7cf50637af6\transformed\jetified-imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-gif:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\33664d3cc331a2c9a457a062cf5a1cbf\transformed\jetified-animated-gif-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:webpsupport:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\fe3cc8f0acca5028764e0004fa4e44db\transformed\jetified-webpsupport-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\4db381dced9171ba19dfe838d5691390\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\453b051ebd805c39d6e3e73854f6db55\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\0987919b273058ddcb20bc952c74d208\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\Naor\.gradle\caches\transforms-3\a02ed72178d06c417e8f276099da5bbc\transformed\jetified-android-jsc-r245459\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-structured-headers] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-structured-headers\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Naor\.gradle\caches\transforms-3\442232dfc3bd4636261367c7466b9eb8\transformed\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Naor\.gradle\caches\transforms-3\f1d8efb4b8d7ab611577761c63516cd8\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:animated-base:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\84254d15b574d57c2fc532cc8e47bc7e\transformed\jetified-animated-base-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-drawable:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\8238c0fa0e9234f0ae7be7b519ace7b8\transformed\jetified-animated-drawable-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\cf1a6378d9cf60ee6e64db0220af0e43\transformed\jetified-drawee-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\b9301504a5bb5f73ea0db755f938c765\transformed\jetified-nativeimagefilters-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\3d2ce2fda2757477edef99a6b998282c\transformed\jetified-imagepipeline-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\d9ed00453dce38ed7c67b021c3eb4d2b\transformed\jetified-nativeimagetranscoder-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\30825c4c4815fee125672e0046d9b36b\transformed\jetified-imagepipeline-base-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\Naor\.gradle\caches\transforms-3\d0e1e3ced29d7b50b3bd951f40e6e9b9\transformed\jetified-soloader-0.9.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\1e683ec5ccfd4dd3d3f187d5043c92d0\transformed\jetified-fbcore-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Naor\.gradle\caches\transforms-3\52d52cced8bebfb30ad04223b3b9dbf5\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Naor\.gradle\caches\transforms-3\7a2f7278ea67a05d51ca28d4524fb85b\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\79b18ea19928c873180773bc8c73f69c\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\Naor\.gradle\caches\transforms-3\9b0b904f8fec7f374923e0351e90093e\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\9fa8f4dba8e9faaa5fd9b9ae5fb311f6\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\Naor\.gradle\caches\transforms-3\7b5fb814f3ced17bcc4aff07f638b6b1\transformed\fragment-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Naor\.gradle\caches\transforms-3\f2d639d4ca8f0a8a5abd82e4bd490b91\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\f3a8a4bdef3e23b5fd71a316c1019ed6\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\36ca67b5d4ef10d2db3bb55ec7df9689\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\29f50cd6758075268688d053fd44b896\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\7a524aff81b51bde4b5321bbe36fdaf5\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\ef311a8195f74b9088fab4844629e707\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Naor\.gradle\caches\transforms-3\c18df72810fbaf40ffa5b9588a38cc94\transformed\jetified-activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Naor\.gradle\caches\transforms-3\58c01757a6b28560da56bd8b14f49441\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\85fa30850312f0ac6655067ba77bd39d\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\a5d25de8876dd1ce225d13acd5bb5262\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Naor\.gradle\caches\transforms-3\e235b0d0b8aa0a21e0440b19e33f8219\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Naor\.gradle\caches\transforms-3\13b9706bf4dd69e3f4a685db1a0ac16d\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\3cb891c6fc247268f75ae5d82081f832\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\a1f6432e04dd129b22f4012451910d14\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\Naor\.gradle\caches\transforms-3\63630bff35c5941492530625c68eb7d4\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Naor\.gradle\caches\transforms-3\1f74b56e741194d23b7000bfe8cc75ad\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Naor\.gradle\caches\transforms-3\8adf80ea19392f13d6b685850dd9cdb0\transformed\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Naor\.gradle\caches\transforms-3\d33465074770e2bcd23095a6cf9ad7ed\transformed\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\c8b909d754456a1ce584df7c687e20c9\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\Naor\.gradle\caches\transforms-3\d7daa8ea44108159e5b04ed2f01f0311\transformed\room-runtime-2.3.0\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Naor\.gradle\caches\transforms-3\faa0623b2490c50adee0f5d128c3ba31\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Naor\.gradle\caches\transforms-3\ee2a24fc6a43d088307dd16776da3e00\transformed\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Naor\.gradle\caches\transforms-3\a8f330e796938b67d1efec9375ab4e04\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\aed1f6f5ff54ac58d197a8a9a21661a2\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\d444aa9caf248316b8cff63ca21f638b\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Naor\.gradle\caches\transforms-3\16ffa9de49d41a5b7295f8186c336e49\transformed\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Naor\.gradle\caches\transforms-3\6b888fc5975099ecc062bc71f7df7b33\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\edfbb49d527de1d95288d33fc6c4182e\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\3f183f29fdf700775dc5117c8272c087\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\9f76c5764b32e935e50aa62bbc7bd24c\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:unimodules-core] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\@unimodules\core\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-manifests] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-manifests\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-json-utils] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-json-utils\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-updates-interface] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-updates-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Naor\.gradle\caches\transforms-3\1968984fad2cb8d7545ec157d69b81f7\transformed\jetified-installreferrer-1.0\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Naor\.gradle\caches\transforms-3\c058d1fa8e9b7559239b1cdc7800ef13\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
 INJECTED from C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\main\AndroidManifest.xml:1:1-34:12
 INJECTED from C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\main\AndroidManifest.xml:1:1-34:12
 INJECTED from C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\main\AndroidManifest.xml:1:1-34:12
 	package
-		ADDED from C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\main\AndroidManifest.xml:1:70-99
+		ADDED from C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\main\AndroidManifest.xml:1:70-98
 		INJECTED from C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\main\AndroidManifest.xml
 	android:versionName
@@ -102,14 +103,14 @@ INJECTED from C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\mai
 		ADDED from C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\main\AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
 ADDED from C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\main\AndroidManifest.xml:2:3-64
-MERGED from [:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-67
-MERGED from [:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-67
+MERGED from [:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-67
+MERGED from [:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-67
 	android:name
 		ADDED from C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\main\AndroidManifest.xml:2:20-62
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
 ADDED from C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\main\AndroidManifest.xml:3:3-77
-MERGED from [:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:5-80
-MERGED from [:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:5-80
+MERGED from [:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:14:5-80
+MERGED from [:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:14:5-80
 	android:name
 		ADDED from C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\main\AndroidManifest.xml:3:20-75
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
@@ -122,14 +123,14 @@ ADDED from C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\main\A
 		ADDED from C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\main\AndroidManifest.xml:5:20-61
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
 ADDED from C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\main\AndroidManifest.xml:6:3-78
-MERGED from [:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-81
-MERGED from [:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-81
+MERGED from [:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-81
+MERGED from [:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-81
 	android:name
 		ADDED from C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\main\AndroidManifest.xml:6:20-76
 queries
 ADDED from C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\main\AndroidManifest.xml:7:3-13:13
-MERGED from [:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:14:5-20:15
-MERGED from [:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:14:5-20:15
+MERGED from [:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:16:5-22:15
+MERGED from [:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:16:5-22:15
 intent#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+data:scheme:https
 ADDED from C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\main\AndroidManifest.xml:8:5-12:14
 action#android.intent.action.VIEW
@@ -146,26 +147,26 @@ ADDED from C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\main\A
 		ADDED from C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\main\AndroidManifest.xml:11:13-35
 application
 ADDED from C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\main\AndroidManifest.xml:14:3-33:17
-MERGED from [:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:22:5-33:19
-MERGED from [:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:22:5-33:19
-MERGED from [:expo-modules-core] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-modules-core\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-13:19
-MERGED from [:expo-modules-core] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-modules-core\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-13:19
-MERGED from [com.facebook.react:react-native:0.64.3] C:\Users\Naor\.gradle\caches\transforms-3\47f6539b0cb1792a4fbe9990239862bd\transformed\jetified-react-native-0.64.3\AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.react:react-native:0.64.3] C:\Users\Naor\.gradle\caches\transforms-3\47f6539b0cb1792a4fbe9990239862bd\transformed\jetified-react-native-0.64.3\AndroidManifest.xml:11:5-20
-MERGED from [com.google.android.material:material:1.1.0] C:\Users\Naor\.gradle\caches\transforms-3\f20400206c15e061c16778c2274af8b0\transformed\material-1.1.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.1.0] C:\Users\Naor\.gradle\caches\transforms-3\f20400206c15e061c16778c2274af8b0\transformed\material-1.1.0\AndroidManifest.xml:22:5-20
-MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\Naor\.gradle\caches\transforms-3\1dae2b0bee6212425ece32082d0a2fa8\transformed\jetified-soloader-0.9.0\AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\Naor\.gradle\caches\transforms-3\1dae2b0bee6212425ece32082d0a2fa8\transformed\jetified-soloader-0.9.0\AndroidManifest.xml:11:5-20
-MERGED from [androidx.core:core:1.6.0] C:\Users\Naor\.gradle\caches\transforms-3\be05a3af4d6e703ce0698cd3d1530543\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.6.0] C:\Users\Naor\.gradle\caches\transforms-3\be05a3af4d6e703ce0698cd3d1530543\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Naor\.gradle\caches\transforms-3\9a966807be30901fdcb072ba1f57782f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Naor\.gradle\caches\transforms-3\9a966807be30901fdcb072ba1f57782f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\Naor\.gradle\caches\transforms-3\fb5e28a80e091ecd4a08e1e158fc7a32\transformed\room-runtime-2.3.0\AndroidManifest.xml:24:5-29:19
-MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\Naor\.gradle\caches\transforms-3\fb5e28a80e091ecd4a08e1e158fc7a32\transformed\room-runtime-2.3.0\AndroidManifest.xml:24:5-29:19
-MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Naor\.gradle\caches\transforms-3\a0fb883dfa45017713d59c8b76e37073\transformed\jetified-installreferrer-1.0\AndroidManifest.xml:11:5-20
-MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Naor\.gradle\caches\transforms-3\a0fb883dfa45017713d59c8b76e37073\transformed\jetified-installreferrer-1.0\AndroidManifest.xml:11:5-20
+MERGED from [:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:24:5-35:19
+MERGED from [:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:24:5-35:19
+MERGED from [:expo-modules-core] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-modules-core\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-15:19
+MERGED from [:expo-modules-core] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-modules-core\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-15:19
+MERGED from [com.facebook.react:react-native:0.64.3] C:\Users\Naor\.gradle\caches\transforms-3\c83d8cd8e93de341b85eaf10eaef508a\transformed\jetified-react-native-0.64.3\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.64.3] C:\Users\Naor\.gradle\caches\transforms-3\c83d8cd8e93de341b85eaf10eaef508a\transformed\jetified-react-native-0.64.3\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Naor\.gradle\caches\transforms-3\442232dfc3bd4636261367c7466b9eb8\transformed\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Naor\.gradle\caches\transforms-3\442232dfc3bd4636261367c7466b9eb8\transformed\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\Naor\.gradle\caches\transforms-3\d0e1e3ced29d7b50b3bd951f40e6e9b9\transformed\jetified-soloader-0.9.0\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\Naor\.gradle\caches\transforms-3\d0e1e3ced29d7b50b3bd951f40e6e9b9\transformed\jetified-soloader-0.9.0\AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.6.0] C:\Users\Naor\.gradle\caches\transforms-3\63630bff35c5941492530625c68eb7d4\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\Naor\.gradle\caches\transforms-3\63630bff35c5941492530625c68eb7d4\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Naor\.gradle\caches\transforms-3\1f74b56e741194d23b7000bfe8cc75ad\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Naor\.gradle\caches\transforms-3\1f74b56e741194d23b7000bfe8cc75ad\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\Naor\.gradle\caches\transforms-3\d7daa8ea44108159e5b04ed2f01f0311\transformed\room-runtime-2.3.0\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\Naor\.gradle\caches\transforms-3\d7daa8ea44108159e5b04ed2f01f0311\transformed\room-runtime-2.3.0\AndroidManifest.xml:24:5-29:19
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Naor\.gradle\caches\transforms-3\1968984fad2cb8d7545ec157d69b81f7\transformed\jetified-installreferrer-1.0\AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Naor\.gradle\caches\transforms-3\1968984fad2cb8d7545ec157d69b81f7\transformed\jetified-installreferrer-1.0\AndroidManifest.xml:11:5-20
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.6.0] C:\Users\Naor\.gradle\caches\transforms-3\be05a3af4d6e703ce0698cd3d1530543\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.6.0] C:\Users\Naor\.gradle\caches\transforms-3\63630bff35c5941492530625c68eb7d4\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
 	android:label
 		ADDED from C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\main\AndroidManifest.xml:14:48-80
 	android:roundIcon
@@ -210,7 +211,7 @@ ADDED from C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\main\A
 		ADDED from C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\main\AndroidManifest.xml:19:68-126
 	android:name
 		ADDED from C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\main\AndroidManifest.xml:19:16-67
-activity#com.Android.Manager.MainActivity
+activity#com.project.manage.MainActivity
 ADDED from C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\main\AndroidManifest.xml:20:5-31:16
 	android:screenOrientation
 		ADDED from C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\main\AndroidManifest.xml:20:276-312
@@ -236,7 +237,7 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\main\AndroidManifest.xml:23:9-68
 	android:name
 		ADDED from C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\main\AndroidManifest.xml:23:19-66
-intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:com.Android.Manager
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:com.project.manage
 ADDED from C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\main\AndroidManifest.xml:25:7-30:23
 category#android.intent.category.DEFAULT
 ADDED from C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\main\AndroidManifest.xml:27:9-67
@@ -250,164 +251,166 @@ uses-sdk
 INJECTED from C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\main\AndroidManifest.xml
-MERGED from [:expo] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:expo] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-gesture-handler] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-gesture-handler] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-localize] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\react-native-localize\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-localize] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\react-native-localize\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-restart] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\react-native-restart\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-restart] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\react-native-restart\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-safe-area-context] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-safe-area-context] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-screens] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\react-native-screens\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-screens] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\react-native-screens\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-svg] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\react-native-svg\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-svg] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\react-native-svg\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-vector-icons] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-vector-icons] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:expo-application] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-application\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:expo-application] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-application\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:expo-constants] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-constants\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:expo-constants] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-constants\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:6:5-8:41
-MERGED from [:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:6:5-8:41
-MERGED from [:expo-font] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-font\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:expo-font] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-font\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:expo-keep-awake] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-keep-awake\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:expo-keep-awake] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-keep-awake\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:expo-splash-screen] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-splash-screen\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:expo-splash-screen] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-splash-screen\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:expo-updates] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-updates\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:expo-updates] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-updates\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:expo-modules-core] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-modules-core\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:expo-modules-core] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-modules-core\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.react:react-native:0.64.3] C:\Users\Naor\.gradle\caches\transforms-3\47f6539b0cb1792a4fbe9990239862bd\transformed\jetified-react-native-0.64.3\AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.64.3] C:\Users\Naor\.gradle\caches\transforms-3\47f6539b0cb1792a4fbe9990239862bd\transformed\jetified-react-native-0.64.3\AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\14f04b8204fd9847289444840023404e\transformed\jetified-fresco-2.0.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\14f04b8204fd9847289444840023404e\transformed\jetified-fresco-2.0.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\2100b8d7c56c72861a286af1f2f4316b\transformed\jetified-imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\2100b8d7c56c72861a286af1f2f4316b\transformed\jetified-imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:animated-gif:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\e93e301e9100c9a822d4b114869bdd27\transformed\jetified-animated-gif-2.0.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:animated-gif:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\e93e301e9100c9a822d4b114869bdd27\transformed\jetified-animated-gif-2.0.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:webpsupport:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\fd506c0a4c305993dc047d4e992fea14\transformed\jetified-webpsupport-2.0.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:webpsupport:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\fd506c0a4c305993dc047d4e992fea14\transformed\jetified-webpsupport-2.0.0\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\6e10fba47c1e82f582f1390983adf319\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\6e10fba47c1e82f582f1390983adf319\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\815e03dc4a322c652e2fea223f044009\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\815e03dc4a322c652e2fea223f044009\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\2b9e59b9c2d8c066171138a11c1dd1ee\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\2b9e59b9c2d8c066171138a11c1dd1ee\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [org.webkit:android-jsc:r245459] C:\Users\Naor\.gradle\caches\transforms-3\0d443feea6fc6d88843377ddcd6b5e39\transformed\jetified-android-jsc-r245459\AndroidManifest.xml:7:5-9:41
-MERGED from [org.webkit:android-jsc:r245459] C:\Users\Naor\.gradle\caches\transforms-3\0d443feea6fc6d88843377ddcd6b5e39\transformed\jetified-android-jsc-r245459\AndroidManifest.xml:7:5-9:41
-MERGED from [:expo-structured-headers] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-structured-headers\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:expo-structured-headers] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-structured-headers\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.android.material:material:1.1.0] C:\Users\Naor\.gradle\caches\transforms-3\f20400206c15e061c16778c2274af8b0\transformed\material-1.1.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.1.0] C:\Users\Naor\.gradle\caches\transforms-3\f20400206c15e061c16778c2274af8b0\transformed\material-1.1.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Naor\.gradle\caches\transforms-3\7b0a137a2a8dd5438a22cb2ff3afa8bb\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Naor\.gradle\caches\transforms-3\7b0a137a2a8dd5438a22cb2ff3afa8bb\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [com.facebook.fresco:animated-base:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\c6135255265db7a142a0841f41d6d65f\transformed\jetified-animated-base-2.0.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:animated-base:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\c6135255265db7a142a0841f41d6d65f\transformed\jetified-animated-base-2.0.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:animated-drawable:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\2df764c29e4e8ee9ebe2fbdd708697fb\transformed\jetified-animated-drawable-2.0.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:animated-drawable:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\2df764c29e4e8ee9ebe2fbdd708697fb\transformed\jetified-animated-drawable-2.0.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\dd6e852553f09ecdefcd93c722b28d96\transformed\jetified-drawee-2.0.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\dd6e852553f09ecdefcd93c722b28d96\transformed\jetified-drawee-2.0.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\40983765e0bf8adf57768753fcc093d4\transformed\jetified-nativeimagefilters-2.0.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\40983765e0bf8adf57768753fcc093d4\transformed\jetified-nativeimagefilters-2.0.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\d6408e01a0e0624f3c3917b6c0b2131e\transformed\jetified-imagepipeline-2.0.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\d6408e01a0e0624f3c3917b6c0b2131e\transformed\jetified-imagepipeline-2.0.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\b1ddf2a413b18d2d7dc633e8948d3fa3\transformed\jetified-nativeimagetranscoder-2.0.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\b1ddf2a413b18d2d7dc633e8948d3fa3\transformed\jetified-nativeimagetranscoder-2.0.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\a5c7004bda87958ab1014c932ced6924\transformed\jetified-imagepipeline-base-2.0.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\a5c7004bda87958ab1014c932ced6924\transformed\jetified-imagepipeline-base-2.0.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\Naor\.gradle\caches\transforms-3\1dae2b0bee6212425ece32082d0a2fa8\transformed\jetified-soloader-0.9.0\AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\Naor\.gradle\caches\transforms-3\1dae2b0bee6212425ece32082d0a2fa8\transformed\jetified-soloader-0.9.0\AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\a74230acd91cada3da5c14491e54536e\transformed\jetified-fbcore-2.0.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\a74230acd91cada3da5c14491e54536e\transformed\jetified-fbcore-2.0.0\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Naor\.gradle\caches\transforms-3\c9a91ca966196b8931cee7f62e249e3d\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Naor\.gradle\caches\transforms-3\c9a91ca966196b8931cee7f62e249e3d\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Naor\.gradle\caches\transforms-3\cf72242cc6f4773d722b4c13182bdcce\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Naor\.gradle\caches\transforms-3\cf72242cc6f4773d722b4c13182bdcce\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\ee5753c281f445ac1052255b134d0eaa\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\ee5753c281f445ac1052255b134d0eaa\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\Naor\.gradle\caches\transforms-3\c98cbf103fe1b536a74743b287051000\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\Naor\.gradle\caches\transforms-3\c98cbf103fe1b536a74743b287051000\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\df97b86ab66613b7bba8408c0037eb08\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\df97b86ab66613b7bba8408c0037eb08\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\Naor\.gradle\caches\transforms-3\2fa5f489377865d151b2d9ce0d50bad0\transformed\fragment-1.2.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\Naor\.gradle\caches\transforms-3\2fa5f489377865d151b2d9ce0d50bad0\transformed\fragment-1.2.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Naor\.gradle\caches\transforms-3\3f0e4cbbe7c6a2e37736436db563346f\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Naor\.gradle\caches\transforms-3\3f0e4cbbe7c6a2e37736436db563346f\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\58b73bd7f7f634e2e3d2d09c92ebd6d8\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\58b73bd7f7f634e2e3d2d09c92ebd6d8\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\6bb25ca2ae33cfdd15a4aa5a69d1baa3\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\6bb25ca2ae33cfdd15a4aa5a69d1baa3\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\6801b8e4b0f36e370528679d3fc501d2\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\6801b8e4b0f36e370528679d3fc501d2\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\1980b634020f4617022eac1c465cf1c6\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\1980b634020f4617022eac1c465cf1c6\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\c6bf8524dd1694266bf85b5de64bec83\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\c6bf8524dd1694266bf85b5de64bec83\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.1.0] C:\Users\Naor\.gradle\caches\transforms-3\bb97576c2e8463d80314a2428dd7efb1\transformed\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.1.0] C:\Users\Naor\.gradle\caches\transforms-3\bb97576c2e8463d80314a2428dd7efb1\transformed\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Naor\.gradle\caches\transforms-3\18873152a64da23c111587e76d0f2723\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Naor\.gradle\caches\transforms-3\18873152a64da23c111587e76d0f2723\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\391c42ab2febe2fc279052f340a74f66\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\391c42ab2febe2fc279052f340a74f66\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\2a03e1d85ee5e488e344aa09a324f949\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\2a03e1d85ee5e488e344aa09a324f949\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.transition:transition:1.2.0] C:\Users\Naor\.gradle\caches\transforms-3\a24151ca7dab27270d1bb5f9061648c2\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.2.0] C:\Users\Naor\.gradle\caches\transforms-3\a24151ca7dab27270d1bb5f9061648c2\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Naor\.gradle\caches\transforms-3\9fc645d3de98037170b7dbea89a88e0c\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Naor\.gradle\caches\transforms-3\9fc645d3de98037170b7dbea89a88e0c\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.media:media:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\9b99c1cf53ee433e9e79a40e0c2cd320\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.media:media:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\9b99c1cf53ee433e9e79a40e0c2cd320\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\c9f86e79a74701b38ecef97825726332\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\c9f86e79a74701b38ecef97825726332\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.6.0] C:\Users\Naor\.gradle\caches\transforms-3\be05a3af4d6e703ce0698cd3d1530543\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.6.0] C:\Users\Naor\.gradle\caches\transforms-3\be05a3af4d6e703ce0698cd3d1530543\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Naor\.gradle\caches\transforms-3\9a966807be30901fdcb072ba1f57782f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Naor\.gradle\caches\transforms-3\9a966807be30901fdcb072ba1f57782f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Naor\.gradle\caches\transforms-3\d51208ab5d5bd0627dc3b62522193eaf\transformed\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Naor\.gradle\caches\transforms-3\d51208ab5d5bd0627dc3b62522193eaf\transformed\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Naor\.gradle\caches\transforms-3\046bb41533299591bbfd3d03067e145d\transformed\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Naor\.gradle\caches\transforms-3\046bb41533299591bbfd3d03067e145d\transformed\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\136fd22d4f0f5074fa11ffc0a0d821cd\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\136fd22d4f0f5074fa11ffc0a0d821cd\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\Naor\.gradle\caches\transforms-3\fb5e28a80e091ecd4a08e1e158fc7a32\transformed\room-runtime-2.3.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\Naor\.gradle\caches\transforms-3\fb5e28a80e091ecd4a08e1e158fc7a32\transformed\room-runtime-2.3.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Naor\.gradle\caches\transforms-3\25e7046ed203571227af65cf2e5a08cc\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Naor\.gradle\caches\transforms-3\25e7046ed203571227af65cf2e5a08cc\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Naor\.gradle\caches\transforms-3\2382fcc6eb35f134f16352afc85d1a9e\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Naor\.gradle\caches\transforms-3\2382fcc6eb35f134f16352afc85d1a9e\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Naor\.gradle\caches\transforms-3\fca29c53b9538cc5d570000ca013c1ad\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Naor\.gradle\caches\transforms-3\fca29c53b9538cc5d570000ca013c1ad\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\9d6bd9c42aa9bdcb71be80e6d8ad2531\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\9d6bd9c42aa9bdcb71be80e6d8ad2531\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\68b3bcc208e4f04d1ce57b2a38c32d35\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\68b3bcc208e4f04d1ce57b2a38c32d35\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Naor\.gradle\caches\transforms-3\b22de541f20a9d1b829c1c28aea07e7e\transformed\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Naor\.gradle\caches\transforms-3\b22de541f20a9d1b829c1c28aea07e7e\transformed\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Naor\.gradle\caches\transforms-3\a313a8f1a6d63a886d792ae0c33ca3da\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Naor\.gradle\caches\transforms-3\a313a8f1a6d63a886d792ae0c33ca3da\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\1d05f978adabceedabaf7f8d5cc67820\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\1d05f978adabceedabaf7f8d5cc67820\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\ba8fb70a59c1ff4473e0c98b4fa0c34c\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\ba8fb70a59c1ff4473e0c98b4fa0c34c\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\b5e06493e7e0180619e18d605304f2ed\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\b5e06493e7e0180619e18d605304f2ed\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [:unimodules-core] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\@unimodules\core\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:unimodules-core] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\@unimodules\core\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:expo-manifests] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-manifests\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:expo-manifests] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-manifests\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:expo-json-utils] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-json-utils\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:expo-json-utils] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-json-utils\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:expo-updates-interface] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-updates-interface\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:expo-updates-interface] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-updates-interface\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Naor\.gradle\caches\transforms-3\a0fb883dfa45017713d59c8b76e37073\transformed\jetified-installreferrer-1.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Naor\.gradle\caches\transforms-3\a0fb883dfa45017713d59c8b76e37073\transformed\jetified-installreferrer-1.0\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Naor\.gradle\caches\transforms-3\4aa91400b9927785576f22e82ff7363c\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Naor\.gradle\caches\transforms-3\4aa91400b9927785576f22e82ff7363c\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:expo] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-localize] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\react-native-localize\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-localize] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\react-native-localize\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-restart] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\react-native-restart\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-restart] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\react-native-restart\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\react-native-screens\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\react-native-screens\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-svg] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\react-native-svg\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\react-native-svg\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-application] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-application\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-application] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-application\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-constants\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-constants\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-font] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-font\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-font] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-font\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-keep-awake] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-keep-awake\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-keep-awake] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-keep-awake\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-splash-screen] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-splash-screen\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-splash-screen] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-splash-screen\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-updates] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-updates\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-updates] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-updates\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-modules-core] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-modules-core\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-modules-core] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-modules-core\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.64.3] C:\Users\Naor\.gradle\caches\transforms-3\c83d8cd8e93de341b85eaf10eaef508a\transformed\jetified-react-native-0.64.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.64.3] C:\Users\Naor\.gradle\caches\transforms-3\c83d8cd8e93de341b85eaf10eaef508a\transformed\jetified-react-native-0.64.3\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\b8b01a7e9adc1f8c096c5e3d1718af6a\transformed\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\b8b01a7e9adc1f8c096c5e3d1718af6a\transformed\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\720189f86df5d3b53892f711a4093dce\transformed\jetified-fresco-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\720189f86df5d3b53892f711a4093dce\transformed\jetified-fresco-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\a0d4b24636013f5d34f3d7cf50637af6\transformed\jetified-imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\a0d4b24636013f5d34f3d7cf50637af6\transformed\jetified-imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\33664d3cc331a2c9a457a062cf5a1cbf\transformed\jetified-animated-gif-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\33664d3cc331a2c9a457a062cf5a1cbf\transformed\jetified-animated-gif-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:webpsupport:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\fe3cc8f0acca5028764e0004fa4e44db\transformed\jetified-webpsupport-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:webpsupport:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\fe3cc8f0acca5028764e0004fa4e44db\transformed\jetified-webpsupport-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\4db381dced9171ba19dfe838d5691390\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\4db381dced9171ba19dfe838d5691390\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\453b051ebd805c39d6e3e73854f6db55\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\453b051ebd805c39d6e3e73854f6db55\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\0987919b273058ddcb20bc952c74d208\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\0987919b273058ddcb20bc952c74d208\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\Naor\.gradle\caches\transforms-3\a02ed72178d06c417e8f276099da5bbc\transformed\jetified-android-jsc-r245459\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\Naor\.gradle\caches\transforms-3\a02ed72178d06c417e8f276099da5bbc\transformed\jetified-android-jsc-r245459\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-structured-headers] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-structured-headers\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-structured-headers] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-structured-headers\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Naor\.gradle\caches\transforms-3\442232dfc3bd4636261367c7466b9eb8\transformed\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Naor\.gradle\caches\transforms-3\442232dfc3bd4636261367c7466b9eb8\transformed\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Naor\.gradle\caches\transforms-3\f1d8efb4b8d7ab611577761c63516cd8\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Naor\.gradle\caches\transforms-3\f1d8efb4b8d7ab611577761c63516cd8\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:animated-base:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\84254d15b574d57c2fc532cc8e47bc7e\transformed\jetified-animated-base-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\84254d15b574d57c2fc532cc8e47bc7e\transformed\jetified-animated-base-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\8238c0fa0e9234f0ae7be7b519ace7b8\transformed\jetified-animated-drawable-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\8238c0fa0e9234f0ae7be7b519ace7b8\transformed\jetified-animated-drawable-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\cf1a6378d9cf60ee6e64db0220af0e43\transformed\jetified-drawee-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\cf1a6378d9cf60ee6e64db0220af0e43\transformed\jetified-drawee-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\b9301504a5bb5f73ea0db755f938c765\transformed\jetified-nativeimagefilters-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\b9301504a5bb5f73ea0db755f938c765\transformed\jetified-nativeimagefilters-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\3d2ce2fda2757477edef99a6b998282c\transformed\jetified-imagepipeline-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\3d2ce2fda2757477edef99a6b998282c\transformed\jetified-imagepipeline-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\d9ed00453dce38ed7c67b021c3eb4d2b\transformed\jetified-nativeimagetranscoder-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\d9ed00453dce38ed7c67b021c3eb4d2b\transformed\jetified-nativeimagetranscoder-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\30825c4c4815fee125672e0046d9b36b\transformed\jetified-imagepipeline-base-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\30825c4c4815fee125672e0046d9b36b\transformed\jetified-imagepipeline-base-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\Naor\.gradle\caches\transforms-3\d0e1e3ced29d7b50b3bd951f40e6e9b9\transformed\jetified-soloader-0.9.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\Naor\.gradle\caches\transforms-3\d0e1e3ced29d7b50b3bd951f40e6e9b9\transformed\jetified-soloader-0.9.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\1e683ec5ccfd4dd3d3f187d5043c92d0\transformed\jetified-fbcore-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\1e683ec5ccfd4dd3d3f187d5043c92d0\transformed\jetified-fbcore-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Naor\.gradle\caches\transforms-3\52d52cced8bebfb30ad04223b3b9dbf5\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Naor\.gradle\caches\transforms-3\52d52cced8bebfb30ad04223b3b9dbf5\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Naor\.gradle\caches\transforms-3\7a2f7278ea67a05d51ca28d4524fb85b\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Naor\.gradle\caches\transforms-3\7a2f7278ea67a05d51ca28d4524fb85b\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\79b18ea19928c873180773bc8c73f69c\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\79b18ea19928c873180773bc8c73f69c\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\Naor\.gradle\caches\transforms-3\9b0b904f8fec7f374923e0351e90093e\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\Naor\.gradle\caches\transforms-3\9b0b904f8fec7f374923e0351e90093e\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\9fa8f4dba8e9faaa5fd9b9ae5fb311f6\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\9fa8f4dba8e9faaa5fd9b9ae5fb311f6\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\Naor\.gradle\caches\transforms-3\7b5fb814f3ced17bcc4aff07f638b6b1\transformed\fragment-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\Naor\.gradle\caches\transforms-3\7b5fb814f3ced17bcc4aff07f638b6b1\transformed\fragment-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Naor\.gradle\caches\transforms-3\f2d639d4ca8f0a8a5abd82e4bd490b91\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Naor\.gradle\caches\transforms-3\f2d639d4ca8f0a8a5abd82e4bd490b91\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\f3a8a4bdef3e23b5fd71a316c1019ed6\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\f3a8a4bdef3e23b5fd71a316c1019ed6\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\36ca67b5d4ef10d2db3bb55ec7df9689\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\36ca67b5d4ef10d2db3bb55ec7df9689\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\29f50cd6758075268688d053fd44b896\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\29f50cd6758075268688d053fd44b896\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\7a524aff81b51bde4b5321bbe36fdaf5\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\7a524aff81b51bde4b5321bbe36fdaf5\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\ef311a8195f74b9088fab4844629e707\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\ef311a8195f74b9088fab4844629e707\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Naor\.gradle\caches\transforms-3\c18df72810fbaf40ffa5b9588a38cc94\transformed\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Naor\.gradle\caches\transforms-3\c18df72810fbaf40ffa5b9588a38cc94\transformed\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Naor\.gradle\caches\transforms-3\58c01757a6b28560da56bd8b14f49441\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Naor\.gradle\caches\transforms-3\58c01757a6b28560da56bd8b14f49441\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\85fa30850312f0ac6655067ba77bd39d\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\85fa30850312f0ac6655067ba77bd39d\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\a5d25de8876dd1ce225d13acd5bb5262\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\a5d25de8876dd1ce225d13acd5bb5262\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Naor\.gradle\caches\transforms-3\e235b0d0b8aa0a21e0440b19e33f8219\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Naor\.gradle\caches\transforms-3\e235b0d0b8aa0a21e0440b19e33f8219\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Naor\.gradle\caches\transforms-3\13b9706bf4dd69e3f4a685db1a0ac16d\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Naor\.gradle\caches\transforms-3\13b9706bf4dd69e3f4a685db1a0ac16d\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\3cb891c6fc247268f75ae5d82081f832\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\3cb891c6fc247268f75ae5d82081f832\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\a1f6432e04dd129b22f4012451910d14\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\a1f6432e04dd129b22f4012451910d14\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\Naor\.gradle\caches\transforms-3\63630bff35c5941492530625c68eb7d4\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\Naor\.gradle\caches\transforms-3\63630bff35c5941492530625c68eb7d4\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Naor\.gradle\caches\transforms-3\1f74b56e741194d23b7000bfe8cc75ad\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Naor\.gradle\caches\transforms-3\1f74b56e741194d23b7000bfe8cc75ad\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Naor\.gradle\caches\transforms-3\8adf80ea19392f13d6b685850dd9cdb0\transformed\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Naor\.gradle\caches\transforms-3\8adf80ea19392f13d6b685850dd9cdb0\transformed\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Naor\.gradle\caches\transforms-3\d33465074770e2bcd23095a6cf9ad7ed\transformed\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Naor\.gradle\caches\transforms-3\d33465074770e2bcd23095a6cf9ad7ed\transformed\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\c8b909d754456a1ce584df7c687e20c9\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\c8b909d754456a1ce584df7c687e20c9\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\Naor\.gradle\caches\transforms-3\d7daa8ea44108159e5b04ed2f01f0311\transformed\room-runtime-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\Naor\.gradle\caches\transforms-3\d7daa8ea44108159e5b04ed2f01f0311\transformed\room-runtime-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Naor\.gradle\caches\transforms-3\faa0623b2490c50adee0f5d128c3ba31\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Naor\.gradle\caches\transforms-3\faa0623b2490c50adee0f5d128c3ba31\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Naor\.gradle\caches\transforms-3\ee2a24fc6a43d088307dd16776da3e00\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Naor\.gradle\caches\transforms-3\ee2a24fc6a43d088307dd16776da3e00\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Naor\.gradle\caches\transforms-3\a8f330e796938b67d1efec9375ab4e04\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Naor\.gradle\caches\transforms-3\a8f330e796938b67d1efec9375ab4e04\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\aed1f6f5ff54ac58d197a8a9a21661a2\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\aed1f6f5ff54ac58d197a8a9a21661a2\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\d444aa9caf248316b8cff63ca21f638b\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Naor\.gradle\caches\transforms-3\d444aa9caf248316b8cff63ca21f638b\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Naor\.gradle\caches\transforms-3\16ffa9de49d41a5b7295f8186c336e49\transformed\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Naor\.gradle\caches\transforms-3\16ffa9de49d41a5b7295f8186c336e49\transformed\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Naor\.gradle\caches\transforms-3\6b888fc5975099ecc062bc71f7df7b33\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Naor\.gradle\caches\transforms-3\6b888fc5975099ecc062bc71f7df7b33\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\edfbb49d527de1d95288d33fc6c4182e\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\edfbb49d527de1d95288d33fc6c4182e\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\3f183f29fdf700775dc5117c8272c087\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\3f183f29fdf700775dc5117c8272c087\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\9f76c5764b32e935e50aa62bbc7bd24c\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Naor\.gradle\caches\transforms-3\9f76c5764b32e935e50aa62bbc7bd24c\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:unimodules-core] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\@unimodules\core\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\@unimodules\core\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-manifests] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-manifests\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-manifests] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-manifests\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-json-utils] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-json-utils\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-json-utils] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-json-utils\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-updates-interface] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-updates-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-updates-interface] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-updates-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Naor\.gradle\caches\transforms-3\1968984fad2cb8d7545ec157d69b81f7\transformed\jetified-installreferrer-1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Naor\.gradle\caches\transforms-3\1968984fad2cb8d7545ec157d69b81f7\transformed\jetified-installreferrer-1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Naor\.gradle\caches\transforms-3\c058d1fa8e9b7559239b1cdc7800ef13\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Naor\.gradle\caches\transforms-3\c058d1fa8e9b7559239b1cdc7800ef13\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
 INJECTED from C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
@@ -419,48 +422,48 @@ INJECTED from C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\mai
 		ADDED from C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Naor\Visual Code Files\WorkersManager\android\app\src\main\AndroidManifest.xml
 intent#action:name:android.intent.action.OPEN_DOCUMENT_TREE
-ADDED from [:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:17:9-19:18
+ADDED from [:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:19:9-21:18
 action#android.intent.action.OPEN_DOCUMENT_TREE
-ADDED from [:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:18:13-79
+ADDED from [:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:20:13-79
 	android:name
-		ADDED from [:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:18:21-76
+		ADDED from [:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:20:21-76
 provider#expo.modules.filesystem.FileSystemFileProvider
-ADDED from [:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:23:9-32:20
+ADDED from [:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:25:9-34:20
 	android:grantUriPermissions
-		ADDED from [:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:27:13-47
+		ADDED from [:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:29:13-47
 	android:authorities
-		ADDED from [:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:25:13-74
+		ADDED from [:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:27:13-74
 	android:exported
-		ADDED from [:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:26:13-37
+		ADDED from [:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:28:13-37
 	tools:replace
-		ADDED from [:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:28:13-48
+		ADDED from [:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:30:13-48
 	android:name
-		ADDED from [:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:24:13-74
+		ADDED from [:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:26:13-74
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from [:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:29:13-31:70
+ADDED from [:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:31:13-33:70
 	android:resource
-		ADDED from [:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:31:17-67
+		ADDED from [:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:33:17-67
 	android:name
-		ADDED from [:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:30:17-67
+		ADDED from [:expo-file-system] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:32:17-67
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [:expo-updates] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-updates\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-79
+ADDED from [:expo-updates] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-updates\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-79
 	android:name
-		ADDED from [:expo-updates] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-updates\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:22-76
+		ADDED from [:expo-updates] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-updates\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:22-76
 meta-data#org.unimodules.core.AppLoader#react-native-headless
-ADDED from [:expo-modules-core] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-modules-core\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:9-12:89
+ADDED from [:expo-modules-core] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-modules-core\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:9-14:89
 	android:value
-		ADDED from [:expo-modules-core] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-modules-core\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:13-86
+		ADDED from [:expo-modules-core] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-modules-core\android\build\intermediates\library_manifest\release\AndroidManifest.xml:14:13-86
 	android:name
-		ADDED from [:expo-modules-core] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-modules-core\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-79
+		ADDED from [:expo-modules-core] C:\Users\Naor\Visual Code Files\WorkersManager\node_modules\expo-modules-core\android\build\intermediates\library_manifest\release\AndroidManifest.xml:13:13-79
 service#androidx.room.MultiInstanceInvalidationService
-ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\Naor\.gradle\caches\transforms-3\fb5e28a80e091ecd4a08e1e158fc7a32\transformed\room-runtime-2.3.0\AndroidManifest.xml:25:9-28:40
+ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\Naor\.gradle\caches\transforms-3\d7daa8ea44108159e5b04ed2f01f0311\transformed\room-runtime-2.3.0\AndroidManifest.xml:25:9-28:40
 	android:exported
-		ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\Naor\.gradle\caches\transforms-3\fb5e28a80e091ecd4a08e1e158fc7a32\transformed\room-runtime-2.3.0\AndroidManifest.xml:28:13-37
+		ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\Naor\.gradle\caches\transforms-3\d7daa8ea44108159e5b04ed2f01f0311\transformed\room-runtime-2.3.0\AndroidManifest.xml:28:13-37
 	android:directBootAware
-		ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\Naor\.gradle\caches\transforms-3\fb5e28a80e091ecd4a08e1e158fc7a32\transformed\room-runtime-2.3.0\AndroidManifest.xml:27:13-43
+		ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\Naor\.gradle\caches\transforms-3\d7daa8ea44108159e5b04ed2f01f0311\transformed\room-runtime-2.3.0\AndroidManifest.xml:27:13-43
 	android:name
-		ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\Naor\.gradle\caches\transforms-3\fb5e28a80e091ecd4a08e1e158fc7a32\transformed\room-runtime-2.3.0\AndroidManifest.xml:26:13-74
+		ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\Naor\.gradle\caches\transforms-3\d7daa8ea44108159e5b04ed2f01f0311\transformed\room-runtime-2.3.0\AndroidManifest.xml:26:13-74
 uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
-ADDED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Naor\.gradle\caches\transforms-3\a0fb883dfa45017713d59c8b76e37073\transformed\jetified-installreferrer-1.0\AndroidManifest.xml:9:5-110
+ADDED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Naor\.gradle\caches\transforms-3\1968984fad2cb8d7545ec157d69b81f7\transformed\jetified-installreferrer-1.0\AndroidManifest.xml:9:5-110
 	android:name
-		ADDED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Naor\.gradle\caches\transforms-3\a0fb883dfa45017713d59c8b76e37073\transformed\jetified-installreferrer-1.0\AndroidManifest.xml:9:22-107
+		ADDED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Naor\.gradle\caches\transforms-3\1968984fad2cb8d7545ec157d69b81f7\transformed\jetified-installreferrer-1.0\AndroidManifest.xml:9:22-107

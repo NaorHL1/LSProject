@@ -4,7 +4,7 @@
     "type": "PACKAGED_MANIFESTS",
     "kind": "Directory"
   },
-  "applicationId": "com.Android.Manager",
+  "applicationId": "com.project.manage",
   "variantName": "debug",
   "elements": [
     {

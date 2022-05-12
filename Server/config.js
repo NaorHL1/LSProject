@@ -1,2 +1,2 @@
-const API="https://fierce-hamlet-71589.herokuapp.com";
+const API="https://manage-server-live.herokuapp.com";
 export {API};

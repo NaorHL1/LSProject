@@ -12,7 +12,7 @@ app.use(cors());
 app.use(bodyparser.json())
 const User = mongoose.model("users")
 const Employee = mongoose.model("employees")
-const mongoKey = "mongodb://127.0.0.1:27017/manage"
+const mongoKey = process.env.MONGODB_URI;
 
 mongoose.connect(mongoKey,{
     useNewUrlParser:true,
@@ -117,6 +117,6 @@ app.post('/update',(req,res)=>{
         console.log(err)
     })
 })
-app.listen(3000,()=>{
+app.listen(process.env.PORT || 5000,()=>{
     console.log('Server Running')
 })
