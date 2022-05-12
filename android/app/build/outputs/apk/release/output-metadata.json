@@ -4,8 +4,8 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.Android.Manager",
-  "variantName": "release",
+  "applicationId": "com.project.manage",
+  "variantName": "processReleaseResources",
   "elements": [
     {
       "type": "SINGLE",

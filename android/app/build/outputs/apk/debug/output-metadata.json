@@ -4,8 +4,8 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.Android.Manager",
-  "variantName": "debug",
+  "applicationId": "com.project.manage",
+  "variantName": "processDebugResources",
   "elements": [
     {
       "type": "SINGLE",
