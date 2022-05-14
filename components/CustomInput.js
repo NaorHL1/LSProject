@@ -5,6 +5,8 @@ import { useState } from 'react';
 import i18n from '../Context/changelang';
 import { Trans,useTranslation, initReactI18next } from "react-i18next"; 
 
+const ltr='rtl';
+
 const CustomInput=({value,setValue,placeholder,hidden,direct})=>{
     const currentlanguage=i18n.language;
     if(!direct){
@@ -16,14 +18,16 @@ const CustomInput=({value,setValue,placeholder,hidden,direct})=>{
     return(
         <SafeAreaView style={styles.container}>
             <TextInput 
-            placeholder={placeholder} 
+            placeholder={placeholder}
+            placeholderTextColor={'#909090'}
             style={[styles.input,{textAlign:i18n.language === 'En' ? 'left':direct}]}
             value={value}
             onChangeText={setValue}
             secureTextEntry={visible}
             />
+            <View style={{alignSelf:i18n.language === 'En' ? 'flex-end':'flex-start',position:'absolute',top:15}}>
             {hidden ? <TouchableOpacity styles={[styles.btnEye]}
-                onPress={()=>{
+                onPressIn={()=>{
                 setVisible(!visible)
                 setShow(!show)
                 }
@@ -31,6 +35,7 @@ const CustomInput=({value,setValue,placeholder,hidden,direct})=>{
                 <Icon  name={show===false?'visibility':'visibility-off'}
                  size={21} style={[styles.icon,{alignSelf:i18n.language === 'En' ? 'flex-end':'flex-start'}]}></Icon>
                 </TouchableOpacity> : null}
+                </View>
         </SafeAreaView>
     )
 }
@@ -50,12 +55,10 @@ const styles=StyleSheet.create({
         borderBottomColor:'#B0B8BF'
     },
     btnEye:{
-        position:'absolute',
         color:'black',
+        alignItems:'center',
         },
     icon:{
-        position:'absolute',
-        bottom:7,
         },
 })
 export default CustomInput

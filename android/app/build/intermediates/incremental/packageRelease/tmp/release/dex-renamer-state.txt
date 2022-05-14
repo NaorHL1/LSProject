@@ -1,4 +1,4 @@
-#Thu May 12 18:53:21 IDT 2022
+#Sun May 15 02:38:24 IDT 2022
 base.1=C\:\\Users\\Naor\\Visual Code Files\\WorkersManager\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes2.dex
 path.1=classes2.dex
 base.0=C\:\\Users\\Naor\\Visual Code Files\\WorkersManager\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex

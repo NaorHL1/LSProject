@@ -1863,8 +1863,6 @@ mipmap ic_launcher
 mipmap ic_launcher_foreground
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
-raw context_en
-raw context_he
 raw node_modules_csstree_data_patch
 raw node_modules_csstree_package
 raw node_modules_entities_lib_maps_decode

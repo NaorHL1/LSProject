@@ -1,7 +1,7 @@
 import { StatusBar } from 'expo-status-bar';
 import { useEffect, useState} from 'react';
 import { SafeAreaView, StyleSheet, Text, TouchableOpacity, View,Modal,Platform,Image,
-Dimensions, ImageBackground,ScrollView,KeyboardAvoidingView, FlatList, ViewBase, ActivityIndicator, Animated} from 'react-native';
+Dimensions, ImageBackground,ScrollView,KeyboardAvoidingView, FlatList, ViewBase, ActivityIndicator, Pressable,} from 'react-native';
 import CustomButton from '../components/CustomButton';
 import CustomInput from '../components/CustomInput';
 import react from 'react';
@@ -189,9 +189,13 @@ export default function WebHome() {
         }
     });
   }
-    
     const renderEmployee=({item,index})=>{
+      if (i18n.language==='En'){
         var  months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+      }
+      else{
+        var  months = ["ינו", "פבר", "מרץ", "אפר", "מאי", "יוני", "יולי", "אוג", "ספט", "אוק", "נוב", "דצמ"];
+      }
         var d = new Date(item.datejoined);
         var monthName=months[d.getMonth()];
         var dayName=d.getDate();
@@ -217,13 +221,13 @@ export default function WebHome() {
             </View>
         )
         :
-        (<View style={{width:'90%',marginTop:10,backgroundColor:'white',borderRadius:20,borderWidth:1,borderColor:'lightgray',alignSelf:'center',height:170}}>
+        (<View style={{width:'90%',marginTop:10,backgroundColor:'white',borderRadius:20,borderWidth:1,borderColor:'lightgray',alignSelf:'center',height:190,flex:1}}>
           <Image style={[styles.image,{width:50,height:50,margin:12,marginLeft:12}] } source={{uri:'https://picsum.photos/150'}}resizeMode='contain'/>
           <Icon onPress={()=>updateMenu(item)+setEditing(true)} size={19} style={{position:'absolute',marginLeft:310,marginTop:25,color:'grey',margin:20}} name='dots-three-vertical'/>
           <Text style={{position:'absolute',marginLeft:75,marginTop:26,fontWeight:'700',fontSize:16}}>{`${item.fname} ${item.lname}`}</Text>
           <Icon size={18} style={{position:'absolute',marginLeft:78,marginTop:55}} name='briefcase'/>
           <Text style={{position:'absolute',marginLeft:105,marginTop:55,fontWeight:'400',fontSize:16}}>{item.roll}</Text>
-          <Text style={{position:'absolute',marginLeft:105,marginTop:75,fontWeight:'400',fontSize:12,color:'grey'}}>{`Start Date: ${dayName} ${monthName} ${yearName}`}</Text>
+          <Text style={{position:'absolute',marginLeft:105,marginTop:75,fontWeight:'400',fontSize:12,color:'grey'}}>{`${t('Start Date')}: ${dayName} ${monthName} ${yearName}`}</Text>
           <Text style={{position:'absolute',marginLeft:105,marginTop:100,fontWeight:'400',fontSize:16}}>{`${item.phone.slice(0,3)} ${item.phone.slice(3,10)}`}</Text>
           <SvgUri width={20} height={20} style={{position:'absolute',marginLeft:77,marginTop:130,fontWeight:'400',fontSize:16}} uri="https://icongr.am/octicons/location.svg?size=128&color=000000"/>
           <Text style={{position:'absolute',marginLeft:105,marginTop:130,fontWeight:'400',fontSize:16}}>{item.address}</Text>
@@ -234,10 +238,12 @@ export default function WebHome() {
     if(Platform.OS!=='web'){
       renderHeader = () => {
         return (<View><Icon onPress={()=>navigation.replace('SignIn')} name="chevron-small-left" size={50} style={{color:'lightslategrey',marginTop:15}}/>
-        <View style={{flexDirection:'row'}}>
-        <Text style={[styles.sectionTitle,{marginHorizontal:20,fontSize:20}]}>{t('Managing Employees')}</Text>
+        <View style={{height:50,flexDirection:'row',justifyContent:'space-between',width:'90%',alignSelf:'center'}}>
+        <Text style={[styles.sectionTitle,{fontSize:20}]}>{t('Managing Employees')}</Text>
         <TouchableOpacity onPress={()=>navigation.navigate('AppHome',{add:true})}>
-        <Image style={{width:30,height:30,marginTop:16,marginLeft:currentlanguage==='En'?100:200}} source={require('../assets/bluePlus.jpg')}></Image>
+          <View style={{alignSelf:'flex-end'}}>
+          <Image style={{width:30,height:30,top:15}} source={require('../assets/bluePlus.jpg')}></Image>
+          </View>
         </TouchableOpacity>
         </View>
         </View>)
@@ -300,11 +306,10 @@ export default function WebHome() {
     :
 
     (<SafeAreaView style={{backgroundColor:'#edf1f2'}}>
-      {isEditing?(
-      <View style={{position: "absolute",width:'100%',height:HEIGHT,backgroundColor: 'rgba(0,0,0,0.8)',zIndex:6}}>
+      {isEditing?(<View style={{position: 'absolute',left:0,top:0,width:WIDTH,height:HEIGHT,backgroundColor: 'rgba(0,0,0,0.8)',zIndex:1}}>
       <TouchableOpacity onPress={()=>setEditing(false)} style={{flex:1}}>
       </TouchableOpacity>
-      <View style={{position:'absolute',backgroundColor:'white',bottom:0,height:160,width:'100%',borderRadius:20}}></View>
+      <View style={{position:'absolute',backgroundColor:'white',bottom:0,height:150,width:'100%',borderTopStartRadius:20,borderTopEndRadius:20,zIndex:2}}></View>
       <Text onPress={()=>navigation.navigate('AppHome',{
           id:Id,
           fname:Fname,
@@ -313,8 +318,9 @@ export default function WebHome() {
           address:Address,
           roll:Roll,
           update:true
-        })} style={{width:WIDTH,marginLeft:30,fontWeight:'400',fontSize:20,height:45}}>{t('Edit')}</Text>
-      <Text onPress={()=>deleteItem(Id)} style={{width:WIDTH,marginLeft:30,fontWeight:'400',fontSize:20,height:45,marginBottom:30}}>{t('Delete')}</Text>
+        })}
+         style={{zIndex:2,width:WIDTH,fontWeight:'400',fontSize:20,height:45,marginLeft:i18n.language==='En'?30:-30,textAlign:Platform.OS==='ios'&&i18n.language==='He'?'right':'auto'}}>{t('Edit')}</Text>
+      <Text onPress={()=>deleteItem(Id)} style={{zIndex:2,width:WIDTH,fontWeight:'400',fontSize:20,height:45,marginBottom:30,marginLeft:i18n.language==='En'?30:-30,textAlign:Platform.OS==='ios'&&i18n.language==='He'?'right':'auto'}}>{t('Delete')}</Text>
       </View>):(null)}
       <StatusBar style="auto" />
       {
@@ -324,6 +330,7 @@ export default function WebHome() {
       keyExtractor={item =>`${item._id}`}
       data={data}
       renderItem={renderEmployee}
+      style={{height:HEIGHT}}
       >
       </FlatList>
       )}

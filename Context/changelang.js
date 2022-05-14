@@ -1,8 +1,6 @@
 import i18n, { init } from "i18next";
 import { useTranslation, initReactI18next, Translation } from "react-i18next";
 import { I18nManager } from "react-native";
-import En from "./En.json"
-import He from "./He.json"
 
 const resources={
     He:{translation:{
@@ -30,7 +28,9 @@ const resources={
       "+ Add Employee":"הוסף עובד +",
       "Add":"הוסף",
       "Update Employee":"עדכן עובד",
-      "Update":"עדכן"
+      "Update":"עדכן",
+      "Edit":"ערוך",
+      "Delete":"מחק",
     }},
     En:{translation:{
       "Sign In" : "Sign In" ,
@@ -57,7 +57,9 @@ const resources={
       "+ Add Employee":"+ Add Employee",
       "Add":"Add",
       "Update Employee":"Update Employee",
-      "Update":"Update"
+      "Update":"Update",
+      "Edit":"Edit",
+      "Delete":"Delete"
     }},
 };
 
