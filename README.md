@@ -1,4 +1,3 @@
 # LSProject
-============================
-Server is live just start app by apk
-expo start for running in web
+==========================================================================================
+Server is live just start app by apk and run [expo start] for running in web
